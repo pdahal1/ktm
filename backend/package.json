@@ -1,0 +1,21 @@
+{
+  "name": "ktm",
+  "version": "0.0.0",
+  "main":"server.js",
+  "scripts": {
+    "ng": "ng",
+    "start": "node server.js",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
+  },
+  "private": true,
+  "dependencies": {
+    
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+    
+  }
+ 
+}
